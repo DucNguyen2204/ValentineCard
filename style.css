@@ -27,13 +27,13 @@ background-color: #fff;
 .pg1 .h, .pg1 .bd {
 		background: linear-gradient(
 			-45deg, 
-			rgba(95, 15, 46, 0.6) 25%, 
-			rgb(95, 15, 32) 25%, 
-			rgb(32, 15, 95) 50%, 
-			rgba(15, 30, 95, 0.6) 50%, 
+			rgba(95, 15, 15, 0.6) 25%, 
+			rgb(95, 15, 15) 25%, 
+			rgb(95, 15, 15) 50%, 
+			rgba(95, 15, 15, 0.6) 50%, 
 			rgba(95, 15, 15, 0.6) 75%, 
 			rgb(95, 15, 15) 75%, 
-			rgba(15, 59, 95, 1)
+			rgb(95, 15, 15)
 		) 0 0/30px 80px;
 		color:transparent;
 		-webkit-background-clip: text;
