@@ -52,6 +52,13 @@ background-color: #fff;
 	.pg1 .bd {		
 		font-size: 105px;
 	}
+    .name{
+        font-family: "papyrus";
+        font-size: 30px;
+        text-align: center;
+        padding-top: 12px;
+        margin-top: 12px;
+    }
 	.pg1 .click {
 		position: absolute;
 		left: 0;
@@ -92,10 +99,10 @@ background-color: #fff;
 		padding-top: 60px;
 		padding-left: 60px;
 		padding-right: 60px;
-		font-family: 'Tangerine', cursive;
-		font-size: 30px;
+		font-family: 'Ink Free', cursive;
+		font-size: 21px;
 		font-weight: bold;
-		color:rgba(15, 59, 95, 0.85);
+		color:rgba(95, 15, 15, 0.85);
 	}
 	#open:checked ~ .pg1 {
 	animation: openCardPg1 1s ease forwards;
