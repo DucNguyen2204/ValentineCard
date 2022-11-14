@@ -27,12 +27,12 @@ background-color: #fff;
 .pg1 .h, .pg1 .bd {
 		background: linear-gradient(
 			-45deg, 
-			rgba(15, 59, 95, .6) 25%, 
-			rgba(15, 59, 95, 1) 25%, 
-			rgba(15, 59, 95, 1) 50%, 
-			rgba(15, 59, 95, .6) 50%, 
-			rgba(15, 59, 95, .6) 75%, 
-			rgba(15, 59, 95, 1) 75%, 
+			rgba(95, 15, 46, 0.6) 25%, 
+			rgb(95, 15, 32) 25%, 
+			rgb(32, 15, 95) 50%, 
+			rgba(15, 95, 75, 0.6) 50%, 
+			rgba(15, 95, 19, 0.6) 75%, 
+			rgb(95, 94, 15) 75%, 
 			rgba(15, 59, 95, 1)
 		) 0 0/30px 80px;
 		color:transparent;
