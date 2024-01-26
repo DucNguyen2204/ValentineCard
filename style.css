@@ -72,14 +72,14 @@ background-color: #fff;
 		height: calc(100% - 44px);
 		transform: rotateY(180deg);
 	}
-		.pg2 .content .birthday {
-			position: absolute;
-			left: 55%;
-			top: 30%;
-			width: 90%;
-			transform: rotate(-30deg) translateX(-50%) translateY(-50%);
-			transform-origin: 50% 50%;
-		}
+		.pg2 .content .birthday{
+    position: absolute;
+    left: 55%;
+    top: 35%;
+    width: 80%;
+    transform: rotate(323deg) translateX(-47%) translateY(-57%);
+    transform-origin: 50% 50%;
+}
 
 	.pg3 {
 	z-index: 30;
