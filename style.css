@@ -25,16 +25,7 @@ background-color: #fff;
 }
 
 .pg1 .h, .pg1 .bd {
-		background: linear-gradient(
-			-45deg, 
-			rgba(95, 15, 15, 0.6) 25%, 
-			rgb(95, 15, 15) 25%, 
-			rgb(95, 15, 15) 50%, 
-			rgba(95, 15, 15, 0.6) 50%, 
-			rgba(95, 15, 15, 0.6) 75%, 
-			rgb(95, 15, 15) 75%, 
-			rgb(95, 15, 15)
-		) 0 0/30px 80px;
+		background: linear-gradient(  -45deg,  rgba(255, 0, 0, 0.6) 0%,  rgba(255, 0, 0, 0.8) 50%,  rgba(255, 0, 0, 0.6) 100%) 0 0/30px 80px;
 		color:transparent;
 		-webkit-background-clip: text;
 		background-clip: text;
@@ -50,7 +41,7 @@ background-color: #fff;
 		font-size: 115px;
 	}
 	.pg1 .bd {		
-		font-size: 85px;
+		font-size: 80px;
 	}
     .name{
         font-family: "papyrus";
